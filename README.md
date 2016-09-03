@@ -19,6 +19,9 @@ The training data is located in the data folder named *transactions.csv*.
 
 We are also displaying a frequency plot to show the frequency with which items are bought.
 
+**RJava.R**
+Sample R script to showcase the rJava package.
+Detailed description of libraries and methods used are described in the script. 
 
 Author:
 > Rupin Jairaj
